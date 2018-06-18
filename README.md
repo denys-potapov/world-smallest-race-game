@@ -1,2 +1,3 @@
-# world-smallest-race-game
-World Smallest Race Game
+# World Smallest Race Game
+
+Use tasm to compile
